@@ -1,0 +1,328 @@
+{
+    
+    "refData" : [
+        
+        {
+            "metricName": "CURRENT_SPEED",
+            "metricId": 0,
+            "metricSize": 2,
+            "outputRate": 200,
+            "operatorType": "DIVIDE_BY_100"
+        },
+        {
+            "metricName": "LEFT_CADENCE",
+            "metricId": 1,
+            "metricSize": 1,
+            "outputRate": 400,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "RIGHT_CADENCE",
+            "metricId": 2,
+            "metricSize": 1,
+            "outputRate": 400,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "AVERAGE_SPEED",
+            "metricId": 3,
+            "metricSize": 2,
+            "outputRate": 1200,
+            "operatorType": "DIVIDE_BY_100"
+        },
+        {
+            "metricName": "PEAK_SPEED",
+            "metricId": 4,
+            "metricSize": 2,
+            "outputRate": 200,
+            "operatorType": "DIVIDE_BY_100"
+        },
+        {
+            "metricName": "CURRENT_POSITION",
+            "metricId": 5,
+            "metricSize": 8,
+            "outputRate": 200,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "DISTANCE_COVERED",
+            "metricId": 6,
+            "metricSize": 4,
+            "outputRate": 200,
+            "operatorType": "DIVIDE_BY_1000"
+        },
+        {
+            "metricName": "CURRENT_CADENCE",
+            "metricId": 7,
+            "metricSize": 2,
+            "outputRate": 400,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "AVERAGE_CADENCE",
+            "metricId": 8,
+            "metricSize": 2,
+            "outputRate": 1200,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "CADENCE_ASYMMETRY",
+            "metricId": 9,
+            "metricSize": 2,
+            "outputRate": 1200,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "CURRENT_STEPS",
+            "metricId": 10,
+            "metricSize": 4,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "STEP_LENGTH_LEFT",
+            "metricId": 11,
+            "metricSize": 2,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "STEP_LENGTH_RIGHT",
+            "metricId": 12,
+            "metricSize": 2,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "STEP_LENGTH_ASYMMETRY",
+            "metricId": 13,
+            "metricSize": 2,
+            "outputRate": 1200,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "AVERAGE_STEP_LENGTH",
+            "metricId": 14,
+            "metricSize": 2,
+            "outputRate": 1200,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "CURRENT_HEART_RATE",
+            "metricId": 15,
+            "metricSize": 1,
+            "outputRate": 1000,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "AVERAGE_HEART_RATE",
+            "metricId": 16,
+            "metricSize": 1,
+            "outputRate": 1000,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "PEAK_HEART_RATE",
+            "metricId": 17,
+            "metricSize": 1,
+            "outputRate": 1000,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "FOOT_STRIKE_LEFT",
+            "metricId": 18,
+            "metricSize": 1,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "FOOT_STRIKE_RIGHT",
+            "metricId": 19,
+            "metricSize": 1,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "FOOT_STRIKE_ASYMMETRY",
+            "metricId": 20,
+            "metricSize": 2,
+            "outputRate": 1200,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "PRONATION_LEFT",
+            "metricId": 21,
+            "metricSize": 1,
+            "outputRate": 400,
+            "operatorType": "DIVIDE_BY_100"
+        },
+        {
+            "metricName": "PRONATION_RIGHT",
+            "metricId": 22,
+            "metricSize": 1,
+            "outputRate": 400,
+            "operatorType": "DIVIDE_BY_100"
+        },
+        {
+            "metricName": "PRONATION_ASYMMETRY",
+            "metricId": 23,
+            "metricSize": 2,
+            "outputRate": 1200,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "TIME_ELAPSED",
+            "metricId": 24,
+            "metricSize": 4,
+            "outputRate": 200,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "TIME_REMAINING",
+            "metricId": 25,
+            "metricSize": 2,
+            "outputRate": 200,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "DISTANCE_REMAINING",
+            "metricId": 26,
+            "metricSize": 4,
+            "outputRate": 200,
+            "operatorType": "DIVIDE_BY_1000"
+        },
+        {
+            "metricName": "HEART_RATE_ZONE",
+            "metricId": 27,
+            "metricSize": 1,
+            "outputRate": 200,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "LAP_PACE",
+            "metricId": 28,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "DISTANCE_ASCENDED",
+            "metricId": 29,
+            "metricSize": 2,
+            "outputRate": 1000,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "DISTANCE_DESCENDED",
+            "metricId": 30,
+            "metricSize": 2,
+            "outputRate": 1000,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "CALORIES_BURNED",
+            "metricId": 31,
+            "metricSize": 2,
+            "outputRate": 5000,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "CALORIES_REMAINING",
+            "metricId": 32,
+            "metricSize": 2,
+            "outputRate": 5000,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "LAP_TIME",
+            "metricId": 33,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "SPLIT_PACE",
+            "metricId": 34,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "SPLIT_TIME",
+            "metricId": 35,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "TIME_PER_UNIT_DIST",
+            "metricId": 36,
+            "metricSize": 2,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "WORKLOAD_RATIO",
+            "metricId": 37,
+            "metricSize": 2,
+            "outputRate": 0,
+            "operatorType": "DIVIDE_BY_10"
+        },
+        {
+            "metricName": "SESSION_SUMMARY",
+            "metricId": 38,
+            "metricSize": 68,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "CLIP_ERROR_RIGHT",
+            "metricId": 39,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "CLIP_ERROR_LEFT",
+            "metricId": 40,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "SLAVE_DISCON_ERROR",
+            "metricId": 41,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "CURRENT_STEP_LENGTH",
+            "metricId": 42,
+            "metricSize": 2,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "GPS_LOSS_ERROR",
+            "metricId": 43,
+            "metricSize": 4,
+            "outputRate": 0,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "STEP_TIME_LEFT",
+            "metricId": 44,
+            "metricSize": 4,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        },
+        {
+            "metricName": "STEP_TIME_RIGHT",
+            "metricId": 45,
+            "metricSize": 4,
+            "outputRate": 400,
+            "operatorType": "NONE"
+        }
+    ]
+}

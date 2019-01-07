@@ -1,0 +1,33 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Mobile Suite" annotations="JDK" parallel="tests">
+         
+  <test name="flipkart">
+	 <classes>
+	   <class name="com.suite1.Flipkart"/>
+	 </classes>
+   </test>
+   
+  <!--  <suite name="suite">
+    <listeners>
+        <listener class-name="com.baeldung.reports.CustomisedReports" />
+    </listeners>
+    <test name="test suite">
+        <classes>
+        <class name="baeldung.com.RegistrationTest" />
+            <class name="baeldung.com.SignInTest" />
+        </classes>
+    </test>
+</suite> -->
+   
+   
+   
+   
+   
+   
+  <test name="Myntra">
+     <classes>
+       <class name="com.suite2.SnapDeal"/>
+     </classes>
+   </test>
+</suite>

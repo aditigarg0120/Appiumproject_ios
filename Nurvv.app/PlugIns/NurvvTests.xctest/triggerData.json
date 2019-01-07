@@ -1,0 +1,7 @@
+{
+  "idNo": 1,
+  "name": "OBJECTIVE_MET",
+  "description": "Object Met",
+  "intervalType": "NOINTERVAL",
+  "requireGoal": true
+}

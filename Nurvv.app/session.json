@@ -1,0 +1,298 @@
+{
+    "sessionId": "5b83d4dda7b11b0001b9f7c4",
+    "athleteID": "5b275157c9e77c00014284dd",
+    "activityType": "RUN",
+    "sessionType": "GOAL",
+    "injured": false,
+    "sessionDate": 1535366178000,
+    "sessionStart": 1535366178000,
+    "sessionEnd": 1535366320000,
+    "sessionState": "SYNCED",
+    "sessionDistance": 0.07,
+    "sessionTag": {
+        "activityTag": "RACE",
+        "routeId": "5b6c4899a7b11b00019916c6"
+    },
+    "audiocueId": [],
+    "sessionSummary": [
+        {
+            "name": "DISTANCE_COVERED",
+            "values": 0.07,
+            "summarizedAs": "CUMMULATIVE_TOTAL"
+        },
+        {
+            "name": "TIME_ELAPSED",
+            "values": 142200,
+            "summarizedAs": "CUMMULATIVE_TOTAL"
+        },
+        {
+            "name": "CALORIES_BURNED",
+            "values": 183,
+            "summarizedAs": "CUMMULATIVE_TOTAL"
+        },
+        {
+            "name": "AVERAGE_STEP_LENGTH",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_LEFT_FRONT",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_RIGHT_FRONT",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_LEFT_MID",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_RIGHT_MID",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_LEFT_REAR",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_RIGHT_REAR",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_LEFT_NUETRAL",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_RIGHT_NUETRAL",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_LEFT_OVER",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_RIGHT_OVER",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_LEFT_UNDER",
+            "values": 50,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_RIGHT_UNDER",
+            "values": 50,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "CURRENT_SPEED",
+            "values": 1.6026874115983025,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "LEFT_CADENCE",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "RIGHT_CADENCE",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "AVERAGE_SPEED",
+            "values": 1.6476271186440676,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "PEAK_SPEED",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "CURRENT_CADENCE",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "AVERAGE_CADENCE",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "CADENCE_ASYMMETRY",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "CURRENT_STEPS",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "STEP_LENGTH_LEFT",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "STEP_LENGTH_RIGHT",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "STEP_LENGTH_ASYMMETRY",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_ASYMMETRY",
+            "values": 100,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "PRONATION_ASYMMETRY",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "LAP_PACE",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "LAP_TIME",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "SPLIT_PACE",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "SPLIT_TIME",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "CURRENT_STEP_LENGTH",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "STEP_TIME_LEFT",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "STEP_TIME_RIGHT",
+            "values": 0,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_LEFT_FRONT",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_LEFT_MID",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_LEFT_REAR",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_RIGHT_FRONT",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_RIGHT_MID",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "FOOT_STRIKE_RIGHT_REAR",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_LEFT_UNDER",
+            "values": 100,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_LEFT_NUETRAL",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_LEFT_OVER",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_RIGHT_UNDER",
+            "values": 100,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_RIGHT_NUETRAL",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "PRONATION_RIGHT_OVER",
+            "values": 0,
+            "summarizedAs": "RELATIVE_PERCENTAGE"
+        },
+        {
+            "name": "CURRENT_PACE",
+            "values": 33.857142857142854,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        },
+        {
+            "name": "RUNNING_HEALTH_SCORE",
+            "values": 15,
+            "summarizedAs": "ABSOLUTE_AVERAGE"
+        }
+    ],
+    "splitWiseDetail": [
+        {
+            "splitNumber": 1,
+            "splitData": [
+                {
+                    "metricType": "SPLIT_TIME",
+                    "value": "257"
+                }
+            ]
+        },
+        {
+            "splitNumber": 1,
+            "splitData": [
+                {
+                    "metricType": "SPLIT_PACE",
+                    "value": "257"
+                }
+            ]
+        }
+    ],
+    "acwr": 4,
+    "ctl": 0.292,
+    "routeCompletionTime": 142200,
+    "goalId": "5b83d405a7b11b0001b9f7c3"
+}
