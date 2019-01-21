@@ -25,12 +25,12 @@ public class Backup {
 //
 //			// Click and send keys to enter email
 //			MobileElement textEmail = driver.findElement(By.id("edit_text_email"));
-//			textEmail.sendKeys("aditi123@madebyfire.com");
+//			textEmail.sendKeys("aditi123@test.com");
 //			driver.hideKeyboard();
 //
 //			// Click and send keys to enter password
 //			MobileElement textPassword = driver.findElement(By.id("edit_text_password"));
-//			textPassword.sendKeys("Mbf123456!");
+//			textPassword.sendKeys("*******!");
 //			driver.hideKeyboard();
 //			
 //			// To show and hide password

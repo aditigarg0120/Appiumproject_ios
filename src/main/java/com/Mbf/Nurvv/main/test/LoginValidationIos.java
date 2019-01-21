@@ -64,12 +64,12 @@ public class LoginValidationIos {
 
 				// Click and send keys to enter email
 				MobileElement textEmail = driver.findElementByAccessibilityId("emailTextField");
-				textEmail.sendKeys("aditi@madebyfire.com");
+				textEmail.sendKeys("aditi@test.com");
 				driver.hideKeyboard();
 
 				// Click and send keys to enter password
 				MobileElement textPassword = driver.findElementByAccessibilityId("passwordTextField");
-				textPassword.sendKeys("Mbf123456!");
+				textPassword.sendKeys("*******!");
 				// driver.hideKeyboard();
 
 				// toggle password
