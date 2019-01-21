@@ -1,8 +1,0 @@
-{
-  "splitNo": 1,
-  "splitName": "Lap1 Split1",
-  "splitGoal": {
-    "metricType": "SPLIT_TIME",
-    "goalValue": "10"
-  }
-}

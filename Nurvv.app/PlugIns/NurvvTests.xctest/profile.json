@@ -1,8 +1,0 @@
-{
-  "cueorder": 0,
-  "triggerType": "ABOVE_BELOW_TARGET",
-  "metricType": "TIME_PER_UNIT_DIST",
-  "triggerFrequency": 30,
-  "triggerGoal": 0,
-  "prioritycue": false
-}

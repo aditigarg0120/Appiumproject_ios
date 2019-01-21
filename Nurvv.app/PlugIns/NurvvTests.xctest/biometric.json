@@ -1,7 +1,0 @@
-{
-	"type": "PREFEREDTIMEFORMAT",
-	"metric": "METRIC",
-	"dataType": "STRING",
-	"metricValue": "12H",
-	"imperialValue": "12H"
-}
